@@ -52,7 +52,7 @@ bash scripts/test_blora.sh ${GPU_NUM} ${CFG} ${DATASETS} ${OUTPUT_DIR} ${FSHOT} 
     - scripts/*.json
 
 - use checkpoints
-    - You can also downloads the trained checkpoints and directly test to reproduce the results [checkpoints]()
+    - You can also download the trained checkpoints and directly test to reproduce the results [checkpoints](https://pan.baidu.com/s/1y_PTfQwWp8PWerR42Xi04w?pwd=v4t2)
 
 
 # Acknowledgements
