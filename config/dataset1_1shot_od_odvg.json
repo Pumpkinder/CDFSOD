@@ -1,0 +1,18 @@
+{
+  "train": [
+    {
+      "root": "/path/to/cdfsod-dataset/dataset1/train/",
+      "anno": "/path/to/cdfsod-dataset/dataset1/annotations/1_shot_odvg.json",
+      "label_map": "/path/to/dataset1_label_map.json",
+      "dataset_mode": "odvg"
+    }
+  ],
+  "val": [
+    {
+      "root": "/path/to/cdfsod-dataset/dataset1/test/",
+      "anno": "/path/to/cdfsod-dataset/dataset1/annotations/test.json",
+      "label_map": null,
+      "dataset_mode": "coco"
+    }
+  ]
+}

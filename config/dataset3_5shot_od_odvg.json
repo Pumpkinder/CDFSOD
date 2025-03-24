@@ -1,0 +1,18 @@
+{
+  "train": [
+    {
+      "root": "/home/maran/cdfsod-dataset/dataset3/train/",
+      "anno": "/home/maran/cdfsod-dataset/dataset3/annotations/5_shot_odvg.json",
+      "label_map": "/home/maran/Open-GroundingDino/config/dataset3_label_map.json",
+      "dataset_mode": "odvg"
+    }
+  ],
+  "val": [
+    {
+      "root": "/home/maran/cdfsod-dataset/dataset3/test/",
+      "anno": "/home/maran/cdfsod-dataset/dataset3/annotations/test.json",
+      "label_map": null,
+      "dataset_mode": "coco"
+    }
+  ]
+}
