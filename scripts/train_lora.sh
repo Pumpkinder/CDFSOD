@@ -17,5 +17,5 @@ CUDA_VISIBLE_DEVICES=${GPU_NUM} python main.py \
         --backbone_use_lora \
         --f_shot ${FSHOT} \
         --inference_dir ${IDIR} \
-        --pretrain_model_path /home/maran/Open-GroundingDino/weights/groundingdino_swinb_lora.pth \
+        --pretrain_model_path /path/to/weights/groundingdino_swinb_lora.pth \
         --options text_encoder_type=./bert-base-uncased
