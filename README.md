@@ -46,7 +46,7 @@ bash scripts/test_blora.sh ${GPU_NUM} ${CFG} ${DATASETS} ${OUTPUT_DIR} ${FSHOT} 
 
 # Reproduce
 
-- You can reproduce the results with reproduce.md
+- You can reproduce the results with reproduce.md with pretrained [weights](https://pan.baidu.com/s/1y_PTfQwWp8PWerR42Xi04w?pwd=v4t2).
 
 - results
     - scripts/*.json
